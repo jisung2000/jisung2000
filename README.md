@@ -1,5 +1,4 @@
 ##  I'm Jisung👋 
-<p align="left">Front-end Engineer</p>
 
 ###
 ### Using 🛠
